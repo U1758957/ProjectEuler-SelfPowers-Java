@@ -71,6 +71,7 @@ public class SelfPower {
             default:
                 limit = 1000;
                 amount = 10;
+                break;
 
         }
 
